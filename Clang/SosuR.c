@@ -1,4 +1,4 @@
-// clang -std=c11 cSosuR.c -o excSosuR -lm
+// clang -std=c11 SosuR.c -o SosuR -lm
 
 #include <stdio.h>
 #include <math.h>

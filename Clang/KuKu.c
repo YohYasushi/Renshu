@@ -1,4 +1,4 @@
-// clang -std=c11 caKuku.c -o excaKuku
+// clang -std=c11 Kuku.c -o Kuku
 
 #include <stdio.h>
 

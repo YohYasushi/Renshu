@@ -1,4 +1,4 @@
-// clang -std=c11 caE.c -o excaE
+// clang -std=c11 aE.c -o aE
 
 #include <stdio.h>
 
