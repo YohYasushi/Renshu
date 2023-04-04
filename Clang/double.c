@@ -1,4 +1,4 @@
-// clang double.c -o double.exe
+// clang double.c -o double
 
 #include <stdio.h>
 

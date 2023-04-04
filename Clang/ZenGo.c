@@ -1,4 +1,4 @@
-// clang ZenKou.c -o ZenKou.exe
+// clang ZenGo.c -o ZenGo
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-// clang 0504.c -o exe.exe
+// clang List.c -o List
 
 #include <stdio.h>
 

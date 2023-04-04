@@ -1,4 +1,4 @@
-// clang MaxMin.c -o MaxMin.exe
+// clang MaxMin.c -o MaxMin
 
 #include <stdio.h>
 
